@@ -1,3 +1,5 @@
+package lab02a.src;
+
 public class Item {
   public boolean solved;
   public String description;
